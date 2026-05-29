@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Runtime data
+data/
+
+# IDE
+.vscode/
+.idea/
+
+# Distribution zip
+ClipboardHistory_v1.0.zip
+
+# OS
+Thumbs.db
+Desktop.ini
